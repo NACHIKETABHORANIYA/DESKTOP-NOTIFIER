@@ -8,6 +8,7 @@
 #RUNNING THE CODE
 
     after installing anaconda 3.7, open jupyter notebook and run this code in notebook. You will get notifications of latest news at your       current window about news.
-
+    
+    Make sure you are connected with internet while executing the code to fetch the news.
 
 THANK YOU.....
