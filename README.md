@@ -13,6 +13,6 @@
     
     
     
-    I have uploaded brief video of running program but pop-up notifications are not visible in this video. However it will give give notifications when you actually run this code.Use of each library is written in comment above perticular line
+    I have uploaded brief video of running program but pop-up notifications are not visible in this video. However it will give notifications when you actually run this code.Use of each function is written in comment above perticular line
 
 THANK YOU.....
